@@ -1,0 +1,6 @@
+{
+  "name": "ArogyaSync Health & Nutrition Hub",
+  "description": "Comprehensive health and wellness management platform with daily task tracking, visual progress analytics, smart nutrition planning, biometric security, reminders, and offline cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
